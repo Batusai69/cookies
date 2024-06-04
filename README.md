@@ -9,7 +9,7 @@ Since the number and names of cookies may change, the table below may be updated
 Provider of Cookie | Cookie Name | Description | Expiration*
 -----------------|-------------|-------------|------------
 GitHub | `app_manifest_token` | This cookie is used during the App Manifest flow to maintain the state of the flow during the redirect to fetch a user session. | Five minutes
-GitHub | `color_mode` | This cookie is used to indicate the user selected theme preference. | Session
+GitHub | `color_mode` | This cookie is used to indicate the user 4selected theme preference. | Session
 GitHub | `_device_id` | This cookie is used to track recognized devices for security purposes. | One year
 GitHub | `dotcom_user` | This cookie is used to signal to us that the user is already logged in. | One year
 GitHub | `enterprise_trial_redirect_to` | This cookie is used to complete a redirect for trial users | 5 minutes
